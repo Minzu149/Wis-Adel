@@ -40,7 +40,7 @@ const distube = new DisTube(client, {
     }
 });
 
-const prefix = '*';
+const prefix = 'w';
 
 // Import MusicUI
 const MusicUI = require('./musicUI');
